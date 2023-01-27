@@ -23,7 +23,7 @@
 
 ## **BUILD HIERARCHY**
 ### NetCore
-- OpenSLL
+- OpenSSL
 - Crypto++
 - ZLib
 - MySQL C++ Connector By Orcale
